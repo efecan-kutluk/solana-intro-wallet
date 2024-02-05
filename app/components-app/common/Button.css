@@ -1,0 +1,16 @@
+button {
+    background: #2b383f;
+    color: #929698;
+    border: none;
+    margin: 0 2px;
+    padding: 1rem;
+}
+
+button:hover {
+    color: #eef1f2;
+    background: #344047;
+}
+
+button:disabled {
+    opacity: 0.5;
+}

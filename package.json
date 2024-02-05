@@ -1,0 +1,35 @@
+{
+  "name": "solanized-wallet",
+  "version": "1.0.0",
+  "description": "1st assignment of risein-solana-bootcamp to make a customized walled app.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "risein",
+    "superteam",
+    "patikadev",
+    "solana",
+    "bootcamp"
+  ],
+  "author": "efecan-kutluk",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.89.1",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.16",
+    "@types/react": "18.2.52",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "typescript": "5.3.3"
+  }
+}
